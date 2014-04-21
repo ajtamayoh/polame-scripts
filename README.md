@@ -1,0 +1,1 @@
+En este repositorio se encuentran todos los scripts del proyecto POLAME. Los robots para descarga de los artículos de periódicos (inicialmente desarrollados en java por Antonio Tamayo) y todos los desarrollos en curso para dar solución informática a los problemas que surgen en el proyecto.
