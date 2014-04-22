@@ -235,7 +235,7 @@ public class Motorwebclarin {
 
                 } else {
 
-                    System.out.println("\nla URL " + direcciones.get(k) + " No está funcionando.\n");
+                    System.out.println(direcciones.get(k));
                     salida.println(direcciones.get(k));
                    
                 }
